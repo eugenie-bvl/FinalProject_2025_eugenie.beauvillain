@@ -10,8 +10,6 @@ This repository contains two Jupyter notebooks demonstrating an end-to-end pipel
 * [Usage](#usage)
 * [Notebooks](#notebooks)
 * [Results](#results)
-* [Potential Improvements](#potential-improvements)
-* [License](#license)
 
 ## Project Structure
 
